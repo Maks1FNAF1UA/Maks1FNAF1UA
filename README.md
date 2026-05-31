@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Maks1FNAF1UA
-- 👀 I’m interested in abobys
-- 🌱 I’m currently learning in abobys
-- 💞️ I’m looking to collaborate on abobys
-- 📫 How to reach me abobys
-- 😄 Pronouns: abobys
-- ⚡ Fun fact: abobys
+- Hi am new coder
+- I’m interested in coding💻
+- I’m currently learning c and c++
+- Thats all
 
 <!---
 Maks1FNAF1UA/Maks1FNAF1UA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
